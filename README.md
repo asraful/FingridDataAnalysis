@@ -40,11 +40,18 @@ Which tool and for what purpose?
 
 This project featched three different data set and combine those as single time series. 
 
+## Use of AI
 
+I have used Google Gemeni for genrating main function of python code . 
+This helps me to write boilerplate code so i can foucus on actual buinsess problem i was solvig. 
+It actually increased my productivity.
 
 ##  Execution in Jupyter Notebook
 
 <img width="1256" alt="Screenshot 2025-02-20 at 11 44 44" src="https://github.com/user-attachments/assets/04ac53be-436e-4612-9986-80b71df67784" />
+
+
+
 
 
 
