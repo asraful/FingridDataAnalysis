@@ -32,6 +32,14 @@ Which tool and for what purpose?
 3. Open FingridDataAnalysis.ipynb file in JupyterNotebook
 4. Execute 
 
+## Dataset 
+
+1. Datasets / Nuclear power production - real time data [https://data.fingrid.fi/en/datasets/188]
+2. Datasets / Hydro power production - real time data [https://data.fingrid.fi/en/datasets/191]
+3. Datasets / Wind power production - real time data [https://data.fingrid.fi/en/datasets/181]
+
+This project featched three different data set and combine those as single time series. 
+
 
 
 ##  Execution in Jupyter Notebook
