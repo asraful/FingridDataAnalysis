@@ -24,9 +24,13 @@ Put your code publicly available on github (If not - Explain: Why not?)
 How you used AI?
 Which tool and for what purpose? 
 
-#Install JupyterNotebook 
 
-https://jupyter.org/install
+## How to run 
+
+1. Clone repository 
+2. Install JupyterNotebook  https://jupyter.org/install
+3. Open FingridDataAnalysis.ipynb file in JupyterNotebook
+4. Execute 
 
 
 
