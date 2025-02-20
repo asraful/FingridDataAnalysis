@@ -24,5 +24,16 @@ Put your code publicly available on github (If not - Explain: Why not?)
 How you used AI?
 Which tool and for what purpose? 
 
+#Install JupyterNotebook 
+
+https://jupyter.org/install
+
+
+
+##  Execution in Jupyter Notebook
+
+<img width="1256" alt="Screenshot 2025-02-20 at 11 44 44" src="https://github.com/user-attachments/assets/04ac53be-436e-4612-9986-80b71df67784" />
+
+
 
 
